@@ -19,13 +19,13 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/Abhay2611/lcoMERNproj
-- name: Vue
-  logo: vue
-  url: https://vuejs.org/v2/guide/
+- name: C
+  logo: c
+  url: https://www.programiz.com/c-programming/
   color: 4FA1EF
   logoColor: FFFFFF
   projects:
-    - https://github.com/Abhay2611/vue-todo
+    - https://github.com/Abhay2611/C-Personal-Diary
 - name: HTML
   logo: HTML5
   url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
