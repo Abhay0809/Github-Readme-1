@@ -11,11 +11,11 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
-| [![C](https://img.shields.io/static/v1?label=&message=C&color=4FA1EF&logo=c&logoColor=FFFFFF)](https://www.programiz.com/c-programming/) | [![C-Personal-Diary](https://img.shields.io/static/v1?label=&message=C-Personal-Diary&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/C-Personal-Diary) |
-| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![web-portfolio](https://img.shields.io/static/v1?label=&message=web-portfolio&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/web-portfolio) |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![lcoMERNproj](https://img.shields.io/static/v1?label=&message=lcoMERNproj&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/lcoMERNproj) |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![SpaceInvaderGame](https://img.shields.io/static/v1?label=&message=SpaceInvaderGame&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/SpaceInvaderGame) |
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![covid-19-tracker](https://img.shields.io/static/v1?label=&message=covid-19-tracker&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/covid-19-tracker) |
+| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![lcoMERNproj](https://img.shields.io/static/v1?label=&message=lcoMERNproj&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/lcoMERNproj) |
+| [![C](https://img.shields.io/static/v1?label=&message=C&color=4FA1EF&logo=c&logoColor=FFFFFF)](https://www.programiz.com/c-programming/) | [![C-Personal-Diary](https://img.shields.io/static/v1?label=&message=C-Personal-Diary&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/C-Personal-Diary) |
+| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![web-portfolio](https://img.shields.io/static/v1?label=&message=web-portfolio&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/web-portfolio) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
