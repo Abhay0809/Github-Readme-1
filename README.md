@@ -18,9 +18,6 @@
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![web-portfolio](https://img.shields.io/static/v1?label=&message=web-portfolio&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Abhay2611/web-portfolio) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-
----
-
 ## GITHUB STATS
 
 <img align="left" alt="Abhay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhay2611&&show_icons=true&theme=radical" />
