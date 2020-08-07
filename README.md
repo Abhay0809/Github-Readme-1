@@ -21,6 +21,8 @@
 
 ---
 
+## GITHUB STATS
+
 <img align="left" alt="Abhay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhay2611&&show_icons=true&theme=radical" />
 
 <div align="center">
