@@ -28,9 +28,7 @@
 
 ## SOCIAL CONNECTIONS
 
-<div >
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
+ <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 <p align="center">
  <a href="https://www.linkedin.com/in/abhay-anand1108/" target="blank">
   <img align="center" alt="Abhay's LinkedIn" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
