@@ -42,6 +42,9 @@
  </a>
  <a href="https://www.facebook.com/abhay.anand.792/" target="blank">
   <img align="center" alt="Abhay's Twitter" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
- </a> 
+ </a> <br />
+ <p align="center">
+   <img src="https://profile-counter.glitch.me/Abhay2611/count.svg" />
+  </p>
 
 [website]: https://abhay-web-folio.netlify.app/index.html
