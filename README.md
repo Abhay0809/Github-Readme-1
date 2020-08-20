@@ -22,10 +22,8 @@
 
 ## 📝 GITHUB STATS
 
-<div>
- <img align="right" alt="Abhay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhay2611&&show_icons=true&theme=radical" />
-<img alt="Abhay's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay2611&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2611&hide=Vue)](https://github.com/Abhay2611/github-readme-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abhay2611)](https://github.com/Abhay2611/github-contribution-stats/) 
 
 ---
 
