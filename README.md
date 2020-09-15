@@ -22,9 +22,9 @@
 
 ## 📝 GITHUB STATS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2611&hide=Vue)](https://github.com/Abhay0809/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay0809&hide=Vue)](https://github.com/Abhay0809/github-readme-stats) 
 &nbsp; &nbsp; &nbsp;
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abhay2611)](https://github.com/Abhay0809/github-contribution-stats/) 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abhay0809)](https://github.com/Abhay0809/github-contribution-stats/) 
 
 ---
 
