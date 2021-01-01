@@ -2,8 +2,8 @@
 
 ### I'm a Student, Developer, and Learner!
 - 🔭 I’m currently pursuing B.Tech in IT!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Complete learning my Full Stack Development!
+- 🌱 I love learning everything 🤣
+- 🥅 2021 Goals: Complete learning my Full Stack Development!
 - ⚡ Fun fact: I love gaming and chatting online!
 
 ## 💻 My Tech Stack
