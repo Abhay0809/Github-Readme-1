@@ -41,6 +41,7 @@
  <a href="https://www.facebook.com/abhay.anand.792/" target="blank">
   <img align="center" alt="Abhay's Twitter" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
  </a> <br />
+ <p align="center"><a href="https://www.buymeacoffee.com/AbhayAnand"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/AbhayAnand" /></a></p> 
  <p align="center">
    <img src="https://profile-counter.glitch.me/Abhay2611/count.svg" />
   </p>
