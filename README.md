@@ -2,7 +2,7 @@
 
 ### I'm a Student, Developer, and Learner!
 - 🔭 I’m currently pursuing B.Tech in IT!
-- 🌱 I love learning everything 🤣
+- 🌱 I love learning new skills and boost them!
 - 🥅 2021 Goals: Complete learning my Full Stack Development!
 - ⚡ Fun fact: I love gaming and chatting online!
 
