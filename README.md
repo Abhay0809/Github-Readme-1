@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Complete learning my Full Stack Development!
 - ⚡ Fun fact: I love gaming and chatting online!
 
-## 💻 My Tech Stack
+## 💻 My Tech Stack:-
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
