@@ -4,6 +4,7 @@
 - 🔭 I’m currently pursuing B.Tech in IT!
 - 🌱 I love learning new skills and boost them!
 - 🥅 2021 Goals: Complete learning my Full Stack Development!
+- 👨‍💻 Working on my JAVA Development Skills!
 - ⚡ Fun fact: I love gaming and chatting online!
 
 ## 💻 My Tech Stack:-
